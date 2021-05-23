@@ -5,7 +5,7 @@ from gtts import gTTS # google text to speech
 import os # to save/open files
 import wolframalpha # to calculate strings into formula
 from selenium import webdriver # to control browser operations
-from twilio.rest import Client
+from twilio.rest import Client # to make calls
 from keylogger import *
 from datetime import datetime
 from time import ctime
